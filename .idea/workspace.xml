@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
+<<<<<<< HEAD
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
@@ -13,6 +14,13 @@
     <list default="true" id="7a73bbac-e537-4690-b6f9-3f6ba5f91c80" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a73bbac-e537-4690-b6f9-3f6ba5f91c80" name="Default Changelist" comment="" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +49,21 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.epico">
     <configuration name="epico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YouTube" />
+=======
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../TheEmpireBot/cogs" />
+      <recent name="$PROJECT_DIR$/../TheEmpireBot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="epico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheEmpireBot" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -63,19 +83,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YouTube" />
+=======
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheEmpireBot" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TheEmpireBot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TheEmpireBot/main.py" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,8 +117,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="testign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YouTube" />
+=======
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheEmpireBot" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -96,7 +134,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testign.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,8 +147,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YouTube" />
+=======
+    <configuration name="testign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheEmpireBot" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -117,7 +164,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testign.py" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,8 +177,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="when-you-troll-a-lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YouTube" />
+=======
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheEmpireBot" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -138,7 +194,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/when-you-troll-a-lib.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests.py" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +209,18 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+=======
+        <item itemvalue="Python.main" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
         <item itemvalue="Python.epico" />
         <item itemvalue="Python.testign" />
         <item itemvalue="Python.tests" />
         <item itemvalue="Python.test" />
+<<<<<<< HEAD
         <item itemvalue="Python.when-you-troll-a-lib" />
+=======
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
       </list>
     </recent_temporary>
   </component>
@@ -180,16 +247,27 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
   </component>
   <component name="WindowStateProjectService">
     <state x="354" y="135" key="#Inspections" timestamp="1592857615520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1592857615520" />
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="135" key="#Inspections" timestamp="1596678612700">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1596678612700" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592717379247">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1592717379247" />
+<<<<<<< HEAD
     <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1594826273664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -206,6 +284,24 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594826273659" />
+=======
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom" timestamp="1596682012817">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596682012817" />
+    <state width="1419" height="240" key="GridCell.Tab.0.center" timestamp="1596682012815">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="240" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596682012815" />
+    <state width="1419" height="240" key="GridCell.Tab.0.left" timestamp="1596682012814">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="240" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596682012814" />
+    <state width="1419" height="240" key="GridCell.Tab.0.right" timestamp="1596682012816">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="240" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596682012816" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
     <state width="1419" height="298" key="GridCell.Tab.1.bottom" timestamp="1592930382043">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

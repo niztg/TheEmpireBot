@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/YouTube.iml" filepath="$PROJECT_DIR$/.idea/YouTube.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/../TheEmpireBot/.idea/TheEmpireBot.iml" filepath="$PROJECT_DIR$/../TheEmpireBot/.idea/TheEmpireBot.iml" />
+>>>>>>> e15fe5c715719720e06f7d751e8f267912847c3b
     </modules>
   </component>
 </project>
