@@ -1,7 +1,9 @@
 from discord.ext import commands
 import discord
+import os
 
 reload = "🔄"
+null = "-"
 
 class Admin(commands.Cog):
     """Commands that can only be run by admins/owners"""
@@ -23,6 +25,24 @@ class Admin(commands.Cog):
                 colour=self.bot.colour)
             await ctx.send(embed=embed)
             await ctx.message.add_reaction(emoji="☑️")
+
+        else:
+            cogs = [f[:-3] for f in os.listdir('cogs') if f.endswith('.py')]
+            for i in extension:
+                if i not in cogs:
+                    return await ctx.send(f"**{i}** is not a valid cog!")
+
+            for f in extension:
+                self.bot.reload_extension(f'cogs.{f}')
+            a = []
+            for x in cogs:
+                if x in extension:
+                    a.append(f"{reload} `cogs.{x}`")
+                else:
+                    a.append(f"{null} `ext.{x}`")
+
+            await ctx.message.add_reaction(emoji="☑️")
+            await ctx.send(embed=discord.Embed(description="\n".join(a), colour=self.bot.colour))
 
     @commands.command()
     @commands.is_owner()
